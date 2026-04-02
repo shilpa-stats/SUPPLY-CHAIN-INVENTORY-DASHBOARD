@@ -8,29 +8,29 @@ This project analyzes supply chain and inventory performance using a Power BI da
 
 Companies need to monitor:
 
-Inventory levels
-Warehouse utilization
-Lead time
-Transportation cost
-Backorders
+1.Inventory levels
+2. Warehouse utilization
+3. Lead time
+4. Transportation cost
+5. Backorders
 
 This dashboard helps decision makers track supply chain efficiency.
 
 ## Tools Used
 
-Power BI
-Excel / CSV dataset
-Data visualization
-Business analytics
+1. Power BI
+2. Excel / CSV dataset
+3. Data visualization
+4. Business analytics
 
 ## Key KPIs
 
-Warehouse Utilization
-Inventory Turnover Ratio
-Days Sales of Inventory
-Lead Time
-Backorder count
-Transportation cost
+1.Warehouse Utilization
+2.Inventory Turnover Ratio
+3.Days Sales of Inventory
+4.Lead Time
+5.Backorder count
+6.Transportation cost
 
 ## Dashboard Insights
 
@@ -44,11 +44,11 @@ Lead time varies slightly across product categories.
 
 ## Skills Demonstrated
 
-Power BI dashboard design
-Business KPI analysis
-Data visualization
-Supply chain analytics
-Inventory analysis
+1.Power BI dashboard design
+2.Business KPI analysis
+3.Data visualization
+4.Supply chain analytics
+5.Inventory analysis
 
 ## Author
 
